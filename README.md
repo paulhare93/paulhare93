@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paulhare93
-- 👀 I’m interested in Computer Graphics
-- 🌱 I’m currently learning TechArt skills in gamedev
-- 💞️ I’m looking to collaborate on cool Unity peojects
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on React web apps
 - 📫 How to reach me paulhare93@gmail.com
 
 <!---
